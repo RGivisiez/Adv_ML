@@ -1,14 +1,18 @@
 # Advance Machine Learning
 
-  Esses códigos foram feitos para o curso de [Machine Learning][adv] no [Coursera][coursera]. A
-ideia final do curos é participar da competição [Predict Future Sales][comp] e publicar
-algum kernel. 
-
- - Os notebooks estão em português e seguem uma ordem. Alguns deles não serão usados
-e foram feitos só porque eu estava aprendendo alguma técnica, tipo ARMA, ARIMA e SARIMA.
-
- - Se viu algo errado ou pode me ajudar em alguma coisa estou a diposição.
-
+   Esses notebook foram feitos para um curso de [Machine Learning][adv] no [Coursera][coursera]
+e o trabalho de conclusão é a publicação de um kernel na competição [Predict Future Sales][comp].
+Porém, como eu estava aprendendo um monte de coisas ao mesmo tempo, resolvi parar um pouco e escrever
+sobre as coisas que estava aprendendo, o que me ajuda a fixar as ideias. Pretendo fazer um série
+de notebooks e não sei quais deles vão realmente sair do papel, mas a ideia é fazer isso:
+    
+ - [1. EDA](1.%20EDA.ipynb)
+ - [2. Features](2.%20Criando%20as%20features.ipynb)
+ - [3. PCA](3.%20PCA.ipynb)
+ - [4. ARIMA-SARIMA](4.%20ARIMA%20-%20SARIMA.ipynb)
+ - [5. XGboost](5.%20XGboost.ipynb)
+ - [6. LSTM(Simples)](6.%20LSTM%20(Simples).ipynb)
+ - [7. LSTM](7.%20LSTM%20(Features).ipynb)
   
 
 [adv]: https://www.coursera.org/specializations/aml

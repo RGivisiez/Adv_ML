@@ -13,7 +13,7 @@ de notebooks e não sei quais deles vão realmente sair do papel, mas a ideia é
  - [5. XGboost](5.%20XGboost.ipynb)
  - [6. LSTM(Simples)](6.%20LSTM%20(Simples).ipynb)
  - [7. LSTM](7.%20LSTM%20(Features).ipynb)
- - [8. Algoritmo novo de um paper do final de 2018] <- Talvez dê tempo
+ - [8. Algoritmo novo de um paper do final de 2018] <- Talvez dê tempo.
 
 [adv]: https://www.coursera.org/specializations/aml
 [coursera]: https://www.coursera.org/

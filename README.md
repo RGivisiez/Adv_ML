@@ -6,7 +6,7 @@ Porém, como eu estava aprendendo um monte de coisas ao mesmo tempo, resolvi par
 sobre as coisas que estava aprendendo, o que me ajuda a fixar as ideias. Pretendo fazer um série
 de notebooks e não sei quais deles vão realmente sair do papel, mas a ideia é fazer isso:
     
- * Para visualizar os gráficos interativos é melhor acessar pelo segundo link. O github
+ * Para visualizar os gráficos interativos é melhor acessar o link nbviwer. O github
  só mostra páginas fixas de html, então não tem outro jeito.
     
  - [1. EDA](1.%20EDA.ipynb) - [nbviwer][1.]
@@ -22,11 +22,11 @@ de notebooks e não sei quais deles vão realmente sair do papel, mas a ideia é
 [coursera]: https://www.coursera.org/
 [comp]: https://www.kaggle.com/c/competitive-data-science-predict-future-sales#evaluation
 
-[1.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/1.%20EDA.ipynb
-[2.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/2.%20Criando%20as%20features.ipynb
-[3.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/3.%20PCA.ipynb
-[4.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/4.%20ARIMA%20-%20SARIMA.ipynb
-[5.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/5.%20XGboost.ipynb
-[6.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/6.%20LSTM%20(Simples).ipynb
-[7.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/7.%20LSTM%20(Features).ipynb
-[8.]: https://nbviewer.jupyter.org/github.com/RGivisiez/Adv_ML/blob/to_be_published/1
+[1.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/1.%20EDA.ipynb
+[2.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/2.%20Criando%20as%20features.ipynb
+[3.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/3.%20PCA.ipynb
+[4.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/4.%20ARIMA%20-%20SARIMA.ipynb
+[5.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/5.%20XGboost.ipynb
+[6.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/6.%20LSTM%20(Simples).ipynb
+[7.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/7.%20LSTM%20(Features).ipynb
+[8.]: https://nbviewer.jupyter.org/github/RGivisiez/Adv_ML/blob/to_be_published/1
